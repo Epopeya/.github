@@ -7,7 +7,7 @@ We use a combination of 3 chips to divide the task evenly. The slave is tasked w
 - Servo
 - Differential motor
 - HuskyLnes Camera
-![PCB Schematic](./Scheme.pdf)
+![PCB Schematic](./Scheme.png)
 ### PCB
 We use one single PCB to connect all these Components
 ![PCB Diagram](./PCB.png)
