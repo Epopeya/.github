@@ -3,6 +3,8 @@ We are a team participating on the *WRO* competition. All our code is on this sa
 
 The goal is to create a self-driving vehicle that is capable of doing 3 laps around a square.
 
+This `README.md` provides a broad overview, but extensive explanation of all components is available at <https://epopeya.github.io>.
+
 ## Hardware
 We use a combination of 3 chips to divide the task evenly.
 - **The slave** is tasked with controlling the motor and servo.
